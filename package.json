@@ -1,0 +1,12 @@
+{
+  "name": "chat-socket",
+  "version": "1.0.0",
+  "description": "chat socket",
+  "license": "ISC",
+  "author": "Vldks",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
